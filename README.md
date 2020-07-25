@@ -1,4 +1,4 @@
-This is the project link: [Cats-Ville](https://cats-ville.netlify.app)
+This is the project completion link: [Cats-Ville](https://cats-ville.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
